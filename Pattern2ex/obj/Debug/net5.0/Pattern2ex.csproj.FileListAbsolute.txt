@@ -1,0 +1,16 @@
+F:\DOTNET\Pattern2ex\Pattern2ex\bin\Debug\net5.0\Pattern2ex.exe
+F:\DOTNET\Pattern2ex\Pattern2ex\bin\Debug\net5.0\Pattern2ex.deps.json
+F:\DOTNET\Pattern2ex\Pattern2ex\bin\Debug\net5.0\Pattern2ex.runtimeconfig.json
+F:\DOTNET\Pattern2ex\Pattern2ex\bin\Debug\net5.0\Pattern2ex.runtimeconfig.dev.json
+F:\DOTNET\Pattern2ex\Pattern2ex\bin\Debug\net5.0\Pattern2ex.dll
+F:\DOTNET\Pattern2ex\Pattern2ex\bin\Debug\net5.0\ref\Pattern2ex.dll
+F:\DOTNET\Pattern2ex\Pattern2ex\bin\Debug\net5.0\Pattern2ex.pdb
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\Pattern2ex.csproj.AssemblyReference.cache
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\Pattern2ex.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\Pattern2ex.AssemblyInfoInputs.cache
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\Pattern2ex.AssemblyInfo.cs
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\Pattern2ex.csproj.CoreCompileInputs.cache
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\Pattern2ex.dll
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\ref\Pattern2ex.dll
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\Pattern2ex.pdb
+F:\DOTNET\Pattern2ex\Pattern2ex\obj\Debug\net5.0\Pattern2ex.genruntimeconfig.cache
